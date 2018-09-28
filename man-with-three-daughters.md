@@ -8,8 +8,8 @@ Man with Three Daughters
 [
   {
     title: "George Bernard Shaw",
-    cover: "images/George_bernard_shaw.jpg",
-    mp3: "http://www.noiseaddicts.com/samples_1w72b820/3927.mp3"
+    cover: "assets/George_bernard_shaw.jpg",
+    mp3: "http://wsww.noiseaddicts.com/samples_1w72b820/3927.mp3"
   }
 ]
 ```
