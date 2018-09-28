@@ -1,7 +1,5 @@
 Man with Three Daughters
 
-
-
 ![](/assets/Ford-pills-picture-puzzle.png)
 
 ```mp3
@@ -13,3 +11,6 @@ Man with Three Daughters
   }
 ]
 ```
+
+
+
