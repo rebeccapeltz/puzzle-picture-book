@@ -6,12 +6,4 @@ Man with Three Daughters
 {% endaimg %}
 
 
-```mp3
-[
-  {
-    title: "AAA",
-    cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/800px-Frederic_Chopin_photo.jpeg",
-    mp3: "https://upload.wikimedia.org/wikipedia/commons/2/22/Chopin_-_Waltz_in_E_minor%2C_B_56.mp3"
-  }
-]
-```
+
