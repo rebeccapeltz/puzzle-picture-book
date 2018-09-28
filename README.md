@@ -1,6 +1,4 @@
 # Puzzle Picture Book
 
-Some interesting pictures from Wikipedia Commons
-
-
+Some interesting pictures from Wikipedia Commons.  See below:
 
