@@ -1,3 +1,10 @@
 {
-    "plugins": ["audio_image"]
+    "plugins": ["editlink"],
+    "pluginsConfig": {
+        "editlink": {
+          "base": "https://github.com/rebeccapeltz/puzzle-picture-book.pdf",
+          "label": "PDF",
+          "multilingual": false
+        }
+    }
 }
