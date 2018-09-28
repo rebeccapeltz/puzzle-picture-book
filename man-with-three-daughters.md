@@ -5,5 +5,3 @@ Man with Three Daughters
 {% aimg imgwidth="50", imgheight="100", audiocontrols=""%}img/img1.png,audio/Four_Years_Old_child_laughing.ogg
 {% endaimg %}
 
-
-
